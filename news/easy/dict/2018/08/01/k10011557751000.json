@@ -1,0 +1,42 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>四枚</rb><rt>よんまい</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>をひらひらさせて<ruby><rb>飛</rb><rt>と</rt></ruby>び、とまるときは<ruby><rb>羽</rb><rt>はね</rt></ruby>を<ruby><rb>縦</rb><rt>たて</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>管</rb><rt>くだ</rt></ruby>のような<ruby><rb>口</rb><rt>くち</rt></ruby>で<ruby><rb>花</rb><rt>はな</rt></ruby>のみつを<ruby><rb>吸</rb><rt>す</rt></ruby>う<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。ちょうちょ。",
+          "hyouki": [
+            "蝶"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "はなれなくなる。",
+          "hyouki": [
+            "留まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>る。あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>る。",
+          "hyouki": [
+            "留まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>かないでいる。",
+          "hyouki": [
+            "留まる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011556561000",
+  "news_prearranged_time": "2018-08-01 11:30:00",
+  "title": "ＡＩスピーカーを使って声で簡単に寄付",
+  "title_with_ruby": "ＡＩスピーカーを<ruby>使<rt>つか</rt></ruby>って<ruby>声<rt>こえ</rt></ruby>で<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>寄付<rt>きふ</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>岡山県<rt>おかやまけん</rt></ruby>や<ruby>広島県<rt>ひろしまけん</rt></ruby>など<ruby>西日本<rt>にしにほん</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>に、とてもたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>被害<rt>ひがい</rt></ruby></a>が<ruby>出<rt>で</rt></ruby>ました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180730/../20180730/K10011556561_1807302036_1807302038_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011556561000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011556561000/k10011556561000.html"
+}
