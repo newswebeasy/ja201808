@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011559431000",
+  "news_prearranged_time": "2018-08-02 16:45:00",
+  "title": "気象庁　７月の雨と暑さは「異常気象だった」",
+  "title_with_ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>　７<ruby>月<rt>がつ</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>と<ruby>暑<rt>あつ</rt></ruby>さは「<ruby>異常<rt>いじょう</rt></ruby><ruby>気象<rt>きしょう</rt></ruby>だった」",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>とは<ruby>違<rt>ちが</rt></ruby>っていました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180801/../20180801/K10011559431_1808011817_1808011820_01_02.jpg",
+  "news_web_movie_uri": "k10011559431_201808012123_201808012129.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011559431000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011559431000/k10011559431000.html"
+}

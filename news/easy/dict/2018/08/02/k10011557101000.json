@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "キクのなかまの<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>二</rb><rt>に</rt></ruby>メートルをこす<ruby><rb>茎</rb><rt>くき</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>種</rb><rt>たね</rt></ruby>は<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にしたり、<ruby><rb>油</rb><rt>あぶら</rt></ruby>をとったりする。",
+          "hyouki": [
+            "ひまわり"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        },
+        {
+          "def": "<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ゆかにしく、<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>毛織物</rb><rt>けおりもの</rt></ruby>。カーペット。",
+          "hyouki": [
+            "じゅうたん"
+          ]
+        }
+      ]
+    }
+  }
+}

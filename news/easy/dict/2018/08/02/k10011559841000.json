@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。",
+          "hyouki": [
+            "救急車"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。",
+          "hyouki": [
+            "熱中症"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>消防</rb><rt>しょうぼう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしたり、<ruby><rb>急病</rb><rt>きゅうびょう</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたりする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "消防署"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとの<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>や、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>がわかること。",
+          "hyouki": [
+            "理解"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちやようすをくみ<ruby><rb>取</rb><rt>と</rt></ruby>ること。",
+          "hyouki": [
+            "理解"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとが<ruby><rb>何回</rb><rt>なんかい</rt></ruby><ruby><rb>起</rb><rt>お</rt></ruby>こったか、<ruby><rb>行</rb><rt>おこな</rt></ruby>われたかという<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "回数"
+          ]
+        }
+      ]
+    }
+  }
+}

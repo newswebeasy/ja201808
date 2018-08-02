@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011558461000",
+  "news_prearranged_time": "2018-08-02 11:30:00",
+  "title": "京都市の桂離宮をたくさんの人に見てもらうようにする",
+  "title_with_ruby": "<ruby>京都市<rt>きょうとし</rt></ruby>の<ruby>桂離宮<rt>かつらりきゅう</rt></ruby>をたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>見<rt>み</rt></ruby>てもらうようにする",
+  "outline_with_ruby": "<p><ruby>京都市<rt>きょうとし</rt></ruby>にある<ruby>桂離宮<rt>かつらりきゅう</rt></ruby>は４００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>につくられました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180801/../20180801/K10011558461_1808010647_1808010651_01_03.jpg",
+  "news_web_movie_uri": "k10011558461_201808010647_201808010651.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011558461000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011558461000/k10011558461000.html"
+}

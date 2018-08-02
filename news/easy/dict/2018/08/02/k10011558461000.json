@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>家族</rb><rt>かぞく</rt></ruby>。",
+          "hyouki": [
+            "皇室"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>や<ruby><rb>高原</rb><rt>こうげん</rt></ruby>などに、ふだん<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>家</rb><rt>いえ</rt></ruby>とは<ruby><rb>別</rb><rt>べつ</rt></ruby>に<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>家</rb><rt>いえ</rt></ruby>。",
+          "hyouki": [
+            "別荘"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>皇室</rb><rt>こうしつ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>事務</rb><rt>じむ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "宮内庁"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。",
+          "hyouki": [
+            "管理"
+          ]
+        },
+        {
+          "def": "よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。",
+          "hyouki": [
+            "管理"
+          ]
+        }
+      ]
+    }
+  }
+}
