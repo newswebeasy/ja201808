@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "いろいろな<ruby><rb>火薬</rb><rt>かやく</rt></ruby>を<ruby><rb>混</rb><rt>ま</rt></ruby>ぜて<ruby><rb>作</rb><rt>つく</rt></ruby>ったものに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけ、はじけて<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>光</rb><rt>ひかり</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>形</rb><rt>かたち</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しさなどを<ruby><rb>楽</rb><rt>たの</rt></ruby>しむもの。",
+          "hyouki": [
+            "花火"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あいだ。へだたり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ひろがり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。",
+          "hyouki": [
+            "間"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ]
+    }
+  }
+}
