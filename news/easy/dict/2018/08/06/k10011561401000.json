@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てたり、とらえたりするための<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>。え。",
+          "hyouki": [
+            "餌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をさそいこむためにあたえるもの。",
+          "hyouki": [
+            "餌"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "オーストラリアにすむ、クマの<ruby><rb>子</rb><rt>こ</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らし、ユーカリの<ruby><rb>葉</rb><rt>は</rt></ruby>を<ruby><rb>食</rb><rt>た</rt></ruby>べる。コモリグマ。",
+          "hyouki": [
+            "コアラ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "それをとることにより、<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきを<ruby><rb>保</rb><rt>たも</rt></ruby>ったり、<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたりする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "栄養"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>なくないように<ruby><rb>守</rb><rt>まも</rt></ruby>ること。かばって<ruby><rb>守</rb><rt>まも</rt></ruby>ること。",
+          "hyouki": [
+            "保護"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。",
+          "hyouki": [
+            "施設"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>地方</rb><rt>ちほう</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>から<ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>香料</rb><rt>こうりょう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>油</rb><rt>あぶら</rt></ruby>をとる。オーストラリアの<ruby><rb>原産</rb><rt>げんさん</rt></ruby>で、<ruby><rb>葉</rb><rt>は</rt></ruby>はコアラの<ruby><rb>好物</rb><rt>こうぶつ</rt></ruby>。",
+          "hyouki": [
+            "ユーカリ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ]
+    }
+  }
+}
