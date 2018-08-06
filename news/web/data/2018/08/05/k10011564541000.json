@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/lnews/okinawa/",
+      "title": "NHK沖縄放送局",
+      "time": "各地のニュース",
+      "datetime": ""
+    }
+  ],
   "word": [],
   "news_id": "k10011564541000",
   "yyyy": "2018",
