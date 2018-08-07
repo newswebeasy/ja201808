@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011564071000",
+  "news_prearranged_time": "2018-08-07 11:30:00",
+  "title": "今年はさんまが去年より多くとれそう",
+  "title_with_ruby": "<ruby>今年<rt>ことし</rt></ruby>はさんまが<ruby>去年<rt>きょねん</rt></ruby>より<ruby>多<rt>おお</rt></ruby>くとれそう",
+  "outline_with_ruby": "<p><ruby>今月<rt>こんげつ</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0000'>さんま</a>をとりに<ruby>行<rt>い</rt></ruby>く<ruby>船<rt>ふね</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなりますが、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>では<a href='javascript:void(0)' class='dicWin' id='id-0000'>さんま</a>が<a href='javascript:void(0)' class='dicWin' id='id-0002'>とれる</a><a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>量<rt>りょう</rt></ruby></a>が<ruby>少<rt>すく</rt></ruby>なくなっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180805/../20180805/K10011564071_1808051040_1808051040_01_02.jpg",
+  "news_web_movie_uri": "k10011564071_201808051324_201808051344.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011564071000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011564071000/k10011564071000.html"
+}

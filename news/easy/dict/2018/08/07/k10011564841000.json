@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>胸</rb><rt>むね</rt></ruby>や、<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にある<ruby><rb>心臓</rb><rt>しんぞう</rt></ruby>・<ruby><rb>肺</rb><rt>はい</rt></ruby>・<ruby><rb>胃</rb><rt>い</rt></ruby>・<ruby><rb>腸</rb><rt>ちょう</rt></ruby>などのこと。はらわた。",
+          "hyouki": [
+            "内臓"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれているあぶら。<ruby><rb>栄養素</rb><rt>えいようそ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "脂肪"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>１年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>４月</rb><rt>しがつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>３月３１日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "年度"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>が<ruby><rb>健康</rb><rt>けんこう</rt></ruby>かどうかを、<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "健康診断"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ]
+    }
+  }
+}
