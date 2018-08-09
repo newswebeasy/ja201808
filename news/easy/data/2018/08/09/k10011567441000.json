@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011567441000",
+  "news_prearranged_time": "2018-08-09 11:30:00",
+  "title": "東京オリンピック　入り口で顔をチェックする機械を発表",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>で<ruby>顔<rt>かお</rt></ruby>をチェックする<ruby>機械<rt>きかい</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180807/../20180807/K10011567441_1808071411_1808071412_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011567441000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011567441000/k10011567441000.html"
+}
