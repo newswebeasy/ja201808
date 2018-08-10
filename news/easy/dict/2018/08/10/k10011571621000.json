@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>２１日</rb><rt>にじゅういちにち</rt></ruby>から<ruby><rb>終</rb><rt>お</rt></ruby>わりまでの、<ruby><rb>約１０日間</rb><rt>やくとおかかん</rt></ruby>。",
+          "hyouki": [
+            "下旬"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。",
+          "hyouki": [
+            "州"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。",
+          "hyouki": [
+            "州"
+          ]
+        },
+        {
+          "def": "す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。",
+          "hyouki": [
+            "州"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ]
+    }
+  }
+}

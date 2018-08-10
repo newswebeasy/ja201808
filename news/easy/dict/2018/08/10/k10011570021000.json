@@ -1,0 +1,190 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>から<ruby><rb>家畜</rb><rt>かちく</rt></ruby>として<ruby><rb>飼</rb><rt>か</rt></ruby>われてきた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>頭</rb><rt>あたま</rt></ruby>に<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>がある。<ruby><rb>食</rb><rt>た</rt></ruby>べた<ruby><rb>草</rb><rt>くさ</rt></ruby>を、あとで<ruby><rb>口</rb><rt>くち</rt></ruby>にもどして「<ruby><rb>反</rb><rt>はん</rt></ruby>すう」する。<ruby><rb>仕事</rb><rt>しごと</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>役牛</rb><rt>えきぎゅう</rt></ruby>、<ruby><rb>乳</rb><rt>ちち</rt></ruby>をしぼる<ruby><rb>乳牛</rb><rt>にゅうぎゅう</rt></ruby>、<ruby><rb>肉</rb><rt>にく</rt></ruby>をとる<ruby><rb>肉牛</rb><rt>にくぎゅう</rt></ruby>などがいる。",
+          "hyouki": [
+            "牛"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "追う"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "追う"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>牛</rb><rt>うし</rt></ruby>・<ruby><rb>馬</rb><rt>うま</rt></ruby>などを、<ruby><rb>放</rb><rt>はな</rt></ruby>し<ruby><rb>飼</rb><rt>が</rt></ruby>いにして<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。まきば。",
+          "hyouki": [
+            "牧場"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きなプロペラが、<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけてあり、まっすぐ<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にとまったりできる<ruby><rb>航空機</rb><rt>こうくうき</rt></ruby>。ヘリ。",
+          "hyouki": [
+            "ヘリコプター"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "追う"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "（<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを）<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>細</rb><rt>こま</rt></ruby>かにくだいたもの。<ruby><rb>粉末</rb><rt>ふんまつ</rt></ruby>。",
+          "hyouki": [
+            "粉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。",
+          "hyouki": [
+            "ミルク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>をにつめたり、<ruby><rb>粉</rb><rt>こな</rt></ruby>にしたりしたもの。",
+          "hyouki": [
+            "ミルク"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、ほかのものを<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "溶かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>固</rb><rt>かた</rt></ruby>まっている<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>などで<ruby><rb>液体</rb><rt>えきたい</rt></ruby>のようにする。",
+          "hyouki": [
+            "溶かす"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れる<ruby><rb>器</rb><rt>うつわ</rt></ruby>。",
+          "hyouki": [
+            "入れ物"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>をくさらせたり<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになったりする。バクテリア。",
+          "hyouki": [
+            "菌"
+          ]
+        },
+        {
+          "def": "カビやキノコなどの<ruby><rb>胞子植物</rb><rt>ほうししょくぶつ</rt></ruby>。また、キノコの<ruby><rb>胞子</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "菌"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>温</rb><rt>あたた</rt></ruby>かくする。<ruby><rb>冷</rb><rt>つめ</rt></ruby>たくなくする。",
+          "hyouki": [
+            "温める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>が<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にかかえる。",
+          "hyouki": [
+            "温める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>せずに<ruby><rb>手</rb><rt>て</rt></ruby>もとにおく。",
+          "hyouki": [
+            "温める"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ]
+    }
+  }
+}
