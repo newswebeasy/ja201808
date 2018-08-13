@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>宇宙開発</rb><rt>うちゅうかいはつ</rt></ruby>のために<ruby><rb>作</rb><rt>つく</rt></ruby>られた、アメリカ<ruby><rb>政府</rb><rt>せいふ</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>。スペースシャトルの<ruby><rb>開発</rb><rt>かいはつ</rt></ruby>などをする。",
+          "hyouki": [
+            "NASA"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>探</rb><rt>さが</rt></ruby>して<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "探査"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "とき。きっかけ。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "はたらき。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "機"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>。<ruby><rb>表</rb><rt>おもて</rt></ruby>。",
+          "hyouki": [
+            "表面"
+          ]
+        },
+        {
+          "def": "うわべ。<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "表面"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>するために、<ruby><rb>教材</rb><rt>きょうざい</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>本</rb><rt>ほん</rt></ruby>。",
+          "hyouki": [
+            "教科書"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "監督"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。",
+          "hyouki": [
+            "活躍"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ]
+    }
+  }
+}
