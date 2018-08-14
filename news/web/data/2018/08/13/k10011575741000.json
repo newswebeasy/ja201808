@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011575741000/k10011575741000.html",
+      "title": "インドネシアのロンボク島 地震で４００人以上が亡くなる",
+      "time": "NEWSWEB EASY 8月14日",
+      "datetime": "2018-08-14"
+    }
+  ],
   "word": [],
   "news_id": "k10011575741000",
   "yyyy": "2018",

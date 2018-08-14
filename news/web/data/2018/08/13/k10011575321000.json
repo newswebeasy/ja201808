@@ -25,7 +25,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011575321000/k10011575321000.html",
+      "title": "東京 相撲の文化や力士の生活を紹介するイベント",
+      "time": "NEWSWEB EASY 8月14日",
+      "datetime": "2018-08-14"
+    }
+  ],
   "word": [
     {
       "link": "word/0000003.html",
