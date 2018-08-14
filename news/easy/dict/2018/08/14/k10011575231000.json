@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をはかったり、<ruby><rb>数</rb><rt>かぞ</rt></ruby>えたりする<ruby><rb>場合</rb><rt>ばあい</rt></ruby>の、もとになるものの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。",
+          "hyouki": [
+            "単位"
+          ]
+        },
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>組織</rb><rt>そしき</rt></ruby>をつくるもとになるもの。",
+          "hyouki": [
+            "単位"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高校</rb><rt>こうこう</rt></ruby>・<ruby><rb>大学</rb><rt>だいがく</rt></ruby>で、<ruby><rb>決</rb><rt>き</rt></ruby>まっている<ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。",
+          "hyouki": [
+            "単位"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けること。また、<ruby><rb>助</rb><rt>たす</rt></ruby>ける<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>手助</rb><rt>てだす</rt></ruby>け。",
+          "hyouki": [
+            "手伝い"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。",
+          "hyouki": [
+            "決まり"
+          ]
+        },
+        {
+          "def": "しめくくり。おさまり。",
+          "hyouki": [
+            "決まり"
+          ]
+        }
+      ]
+    }
+  }
+}
