@@ -1,0 +1,42 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>でも<ruby><rb>祝日</rb><rt>しゅくじつ</rt></ruby>でもない<ruby><rb>日</rb><rt>ひ</rt></ruby>。ふつうの<ruby><rb>日</rb><rt>ひ</rt></ruby>。",
+          "hyouki": [
+            "平日"
+          ]
+        },
+        {
+          "def": "いつも。ふだん。",
+          "hyouki": [
+            "平日"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときの、その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>身分</rb><rt>みぶん</rt></ruby>や<ruby><rb>立場</rb><rt>たちば</rt></ruby>。",
+          "hyouki": [
+            "資格"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>などにつくための<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>。",
+          "hyouki": [
+            "資格"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ]
+    }
+  }
+}

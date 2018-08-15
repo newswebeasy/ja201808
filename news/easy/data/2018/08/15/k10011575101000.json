@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011575101000",
+  "news_prearranged_time": "2018-08-15 11:30:00",
+  "title": "東京オリンピック　道に水をまくとどのくらい涼しくなるか",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>道<rt>みち</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をまくとどのくらい<ruby>涼<rt>すず</rt></ruby>しくなるか",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180813/../20180813/K10011575101_1808131217_1808131226_01_03.jpg",
+  "news_web_movie_uri": "k10011575101_201808131217_201808131220.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011575101000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011575101000/k10011575101000.html"
+}

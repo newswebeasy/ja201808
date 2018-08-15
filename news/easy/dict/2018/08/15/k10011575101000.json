@@ -1,0 +1,170 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "まく"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "まく"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。どちらかの<ruby><rb>足</rb><rt>あし</rt></ruby>が、いつも<ruby><rb>地面</rb><rt>じめん</rt></ruby>についているようにして、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>。",
+          "hyouki": [
+            "競歩"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>進</rb><rt>すす</rt></ruby>んで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>進路</rb><rt>しんろ</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、そこを<ruby><rb>通</rb><rt>とお</rt></ruby>るように<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>の<ruby><rb>内容</rb><rt>ないよう</rt></ruby>や<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。<ruby><rb>課程</rb><rt>かてい</rt></ruby>。",
+          "hyouki": [
+            "コース"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>道</rb><rt>みち</rt></ruby>を<ruby><rb>区切</rb><rt>くぎ</rt></ruby>って、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>歩</rb><rt>ある</rt></ruby>くところと<ruby><rb>決</rb><rt>き</rt></ruby>めてある<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>人道</rb><rt>じんどう</rt></ruby>。",
+          "hyouki": [
+            "歩道"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>管</rb><rt>くだ</rt></ruby>。<ruby><rb>筒</rb><rt>つつ</rt></ruby>。",
+          "hyouki": [
+            "チューブ"
+          ]
+        },
+        {
+          "def": "タイヤの<ruby><rb>中</rb><rt>なか</rt></ruby>のゴムの<ruby><rb>管</rb><rt>くだ</rt></ruby>。",
+          "hyouki": [
+            "チューブ"
+          ]
+        },
+        {
+          "def": "はみがき・<ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby>などの、<ruby><rb>筒形</rb><rt>つつがた</rt></ruby>のしぼり<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>容器</rb><rt>ようき</rt></ruby>。",
+          "hyouki": [
+            "チューブ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "（<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "まく"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "（<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "まく"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "４２．１９５キロメートルを<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>、ギリシャの<ruby><rb>兵士</rb><rt>へいし</rt></ruby>が、<ruby><rb>戦場</rb><rt>せんじょう</rt></ruby>のマラトンから、<ruby><rb>勝利</rb><rt>しょうり</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、アテネまで<ruby><rb>走</rb><rt>はし</rt></ruby>ったことから<ruby><rb>始</rb><rt>はじ</rt></ruby>まった。",
+          "hyouki": [
+            "マラソン"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになるもの。<ruby><rb>多</rb><rt>おお</rt></ruby>くは、もとの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>残</rb><rt>のこ</rt></ruby>っている<ruby><rb>場合</rb><rt>ばあい</rt></ruby>にいう。",
+          "hyouki": [
+            "材料"
+          ]
+        },
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>・<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>などのもとになるもの。",
+          "hyouki": [
+            "材料"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>の<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>が<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>水玉</rb><rt>みずたま</rt></ruby>となり、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くにけむりのようにうかんだもの。うすいものを「もや」、また、<ruby><rb>春</rb><rt>はる</rt></ruby>のものを「かすみ」ということがある。",
+          "hyouki": [
+            "霧"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>玉</rb><rt>たま</rt></ruby>。",
+          "hyouki": [
+            "霧"
+          ]
+        }
+      ]
+    }
+  }
+}

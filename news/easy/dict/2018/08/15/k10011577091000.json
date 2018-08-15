@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。",
+          "hyouki": [
+            "高速道路"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>火事</rb><rt>かじ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>したり、<ruby><rb>火災</rb><rt>かさい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりすること。",
+          "hyouki": [
+            "消防"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>るとき、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>細</rb><rt>こま</rt></ruby>かく<ruby><rb>図</rb><rt>ず</rt></ruby>にかくこと。また、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。",
+          "hyouki": [
+            "設計"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人生</rb><rt>じんせい</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などの<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てること。",
+          "hyouki": [
+            "設計"
+          ]
+        }
+      ]
+    }
+  }
+}
