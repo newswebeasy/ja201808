@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>や<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>で<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>し、<ruby><rb>体</rb><rt>からだ</rt></ruby>がかたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>池</rb><rt>いけ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>にすむイシガメ・スッポン、<ruby><rb>陸</rb><rt>りく</rt></ruby>にすむゾウガメ、<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむアカウミガメなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。ほとんどの<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>首</rb><rt>くび</rt></ruby>や<ruby><rb>尾</rb><rt>お</rt></ruby>、<ruby><rb>足</rb><rt>あし</rt></ruby>をこうらの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>っこめることができる。",
+          "hyouki": [
+            "亀"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>駅</rb><rt>えき</rt></ruby>で、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。また、その<ruby><rb>役</rb><rt>やく</rt></ruby>。",
+          "hyouki": [
+            "駅長"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>周囲</rb><rt>しゅうい</rt></ruby>をよく<ruby><rb>見</rb><rt>み</rt></ruby>わたすことのできる<ruby><rb>高台</rb><rt>たかだい</rt></ruby>。<ruby><rb>見晴</rb><rt>みは</rt></ruby>らし<ruby><rb>台</rb><rt>だい</rt></ruby>。",
+          "hyouki": [
+            "展望台"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。",
+          "hyouki": [
+            "列車"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。",
+          "hyouki": [
+            "雌"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ]
+    }
+  }
+}

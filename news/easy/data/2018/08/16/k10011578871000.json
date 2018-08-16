@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011578871000",
+  "news_prearranged_time": "2018-08-16 16:15:00",
+  "title": "アメリカのカリフォルニア州　たくさんの山で火事が続く",
+  "title_with_ruby": "アメリカのカリフォルニア<ruby>州<rt>しゅう</rt></ruby>　たくさんの<ruby>山<rt>やま</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く",
+  "outline_with_ruby": "<p>アメリカのカリフォルニア<ruby>州<rt>しゅう</rt></ruby>ではとても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いているため、たくさんの<ruby>山<rt>やま</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>起<rt>お</rt></ruby>こっ</a>ています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180816/../20180816/K10011578871_1808160846_1808160900_01_02.jpg",
+  "news_web_movie_uri": "k10011578871_201808161347_201808161354.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011578871000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011578871000/k10011578871000.html"
+}

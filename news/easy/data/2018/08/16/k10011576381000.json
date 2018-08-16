@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011576381000",
+  "news_prearranged_time": "2018-08-16 16:15:00",
+  "title": "ＮＴＴドコモ　スマートフォンを買わされる被害が１０００件",
+  "title_with_ruby": "ＮＴＴドコモ　スマートフォンを<ruby>買<rt>か</rt></ruby>わされる<ruby>被害<rt>ひがい</rt></ruby>が１０００<ruby>件<rt>けん</rt></ruby>",
+  "outline_with_ruby": "<p>ＮＴＴドコモによると、<ruby>盗<rt>ぬす</rt></ruby>んだ<a href='javascript:void(0)' class='dicWin' id='id-0002'>ＩＤ</a>や<a href='javascript:void(0)' class='dicWin' id='id-0003'>パスワード</a>を<ruby>使<rt>つか</rt></ruby>って「ドコモオンラインショップ」に<ruby>入<rt>はい</rt></ruby>る<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>不正<rt>ふせい</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0005'>アクセス</a>が、７<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わり<ruby>頃<rt>ごろ</rt></ruby>から１８００<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>件<rt>けん</rt></ruby></a>ぐらいありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180814/../20180814/K10011576381_1808141434_1808141441_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011576381000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011576381000/k10011576381000.html"
+}

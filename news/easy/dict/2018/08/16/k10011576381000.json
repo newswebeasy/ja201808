@@ -1,0 +1,124 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>身分</rb><rt>みぶん</rt></ruby>を<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>すること。",
+          "hyouki": [
+            "ID"
+          ]
+        },
+        {
+          "def": "<ruby><rb>個人</rb><rt>こじん</rt></ruby>を<ruby><rb>見分</rb><rt>みわ</rt></ruby>ける<ruby><rb>番号</rb><rt>ばんごう</rt></ruby>。<ruby><rb>暗証番号</rb><rt>あんしょうばんごう</rt></ruby>。",
+          "hyouki": [
+            "ID"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "コンピューターを<ruby><rb>使</rb><rt>つか</rt></ruby>うときなどに、その<ruby><rb>人</rb><rt>ひと</rt></ruby>であることを<ruby><rb>確認</rb><rt>かくにん</rt></ruby>する、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なことばや<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。",
+          "hyouki": [
+            "パスワード"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。",
+          "hyouki": [
+            "不正"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "データの<ruby><rb>書</rb><rt>か</rt></ruby>きこみや<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>出</rb><rt>だ</rt></ruby>しをすること。",
+          "hyouki": [
+            "アクセス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目的地</rb><rt>もくてきち</rt></ruby>につながる<ruby><rb>道路</rb><rt>どうろ</rt></ruby>や<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>。",
+          "hyouki": [
+            "アクセス"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ること。<ruby><rb>防犯</rb><rt>ぼうはん</rt></ruby>。",
+          "hyouki": [
+            "セキュリティー"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。<ruby><rb>暗号</rb><rt>あんごう</rt></ruby>。",
+          "hyouki": [
+            "コード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。",
+          "hyouki": [
+            "コード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>を<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>するための<ruby><rb>符号</rb><rt>ふごう</rt></ruby>の<ruby><rb>体系</rb><rt>たいけい</rt></ruby>。",
+          "hyouki": [
+            "コード"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ものごとを<ruby><rb>新</rb><rt>あら</rt></ruby>たに<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "設定"
+          ]
+        }
+      ]
+    }
+  }
+}
