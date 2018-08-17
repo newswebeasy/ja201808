@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仏教</rb><rt>ぶっきょう</rt></ruby>で、<ruby><rb>旧暦</rb><rt>きゅうれき</rt></ruby>の<ruby><rb>七月十五日</rb><rt>しちがつじゅうごにち</rt></ruby>にする、<ruby><rb>先祖</rb><rt>せんぞ</rt></ruby>の<ruby><rb>霊</rb><rt>れい</rt></ruby>をまつる<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。おぼん。ぼん。",
+          "hyouki": [
+            "うら盆"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>の、いちばんはじめの<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "先祖"
+          ]
+        },
+        {
+          "def": "<ruby><rb>今</rb><rt>いま</rt></ruby>の<ruby><rb>家族</rb><rt>かぞく</rt></ruby>より<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "先祖"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>のたましい。",
+          "hyouki": [
+            "霊"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えないふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "霊"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "板"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>の<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>の<ruby><rb>門</rb><rt>もん</rt></ruby>。",
+          "hyouki": [
+            "鳥居"
+          ]
+        }
+      ]
+    }
+  }
+}

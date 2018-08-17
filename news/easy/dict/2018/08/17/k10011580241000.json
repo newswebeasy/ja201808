@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などに、その<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>意見</rb><rt>いけん</rt></ruby>として、のせている<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "社説"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "国民"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>相手</rb><rt>あいて</rt></ruby>。うらみを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>相手</rb><rt>あいて</rt></ruby>。かたき。",
+          "hyouki": [
+            "敵"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>になる。",
+          "hyouki": [
+            "敵"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "博物館"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "わかりきっていること。<ruby><rb>当然</rb><rt>とうぜん</rt></ruby>。",
+          "hyouki": [
+            "当たり前"
+          ]
+        },
+        {
+          "def": "ふつうであること。",
+          "hyouki": [
+            "当たり前"
+          ]
+        }
+      ]
+    }
+  }
+}

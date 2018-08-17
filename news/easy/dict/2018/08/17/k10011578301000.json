@@ -1,0 +1,194 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。",
+          "hyouki": [
+            "人工衛星"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などをより<ruby><rb>合</rb><rt>あ</rt></ruby>わせた<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。",
+          "hyouki": [
+            "ケーブル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>何本</rb><rt>なんぼん</rt></ruby>もの<ruby><rb>電線</rb><rt>でんせん</rt></ruby>を<ruby><rb>束</rb><rt>たば</rt></ruby>ねて<ruby><rb>一本</rb><rt>いっぽん</rt></ruby>にした<ruby><rb>線</rb><rt>せん</rt></ruby>。",
+          "hyouki": [
+            "ケーブル"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>やゴムのふくろの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れてふくらませ<ruby><rb>飛</rb><rt>と</rt></ruby>ばして<ruby><rb>遊</rb><rt>あそ</rt></ruby>ぶおもちゃ。",
+          "hyouki": [
+            "風船"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>上空</rb><rt>じょうくう</rt></ruby>から<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>降</rb><rt>お</rt></ruby>りたり<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>落</rb><rt>お</rt></ruby>としたりするとき、<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>に<ruby><rb>地面</rb><rt>じめん</rt></ruby>に<ruby><rb>着</rb><rt>つ</rt></ruby>けるように<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>傘</rb><rt>かさ</rt></ruby>のようなもの。<ruby><rb>落下傘</rb><rt>らっかさん</rt></ruby>。",
+          "hyouki": [
+            "パラシュート"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。",
+          "hyouki": [
+            "地面"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。",
+          "hyouki": [
+            "地面"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>から<ruby><rb>下</rb><rt>した</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>切</rb><rt>き</rt></ruby>ったりして<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>を<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>分</rb><rt>わ</rt></ruby>ける。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "おろし<ruby><rb>金</rb><rt>がね</rt></ruby>ですりくずす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>下</rb><rt>した</rt></ruby>のほうへのばす。",
+          "hyouki": [
+            "下ろす"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会長"
+          ]
+        }
+      ]
+    }
+  }
+}
