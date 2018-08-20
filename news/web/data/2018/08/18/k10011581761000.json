@@ -66,8 +66,14 @@
   "relationLink": [
     {
       "link": "https://www3.nhk.or.jp/news/special/2018asiangames/",
-      "title": "2018 ジャカルタ アジア大会",
+      "title": "2018 ジャカルタ アジア大会 ニュースまとめ",
       "time": "スペシャルコンテンツ",
+      "datetime": ""
+    },
+    {
+      "link": "http://www1.nhk.or.jp/sports2/2018asiangames/",
+      "title": "ジャカルタアジア大会 特設ホームページ",
+      "time": "スポーツオンライン",
       "datetime": ""
     }
   ],

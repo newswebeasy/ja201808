@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>腰</rb><rt>こし</rt></ruby>や<ruby><rb>手</rb><rt>て</rt></ruby>をくねらせる、ハワイのおどり。",
+          "hyouki": [
+            "フラダンス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>着物</rb><rt>きもの</rt></ruby>。<ruby><rb>衣服</rb><rt>いふく</rt></ruby>。",
+          "hyouki": [
+            "衣装"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "にっこり<ruby><rb>笑</rb><rt>わら</rt></ruby>っている<ruby><rb>顔</rb><rt>かお</rt></ruby>。",
+          "hyouki": [
+            "笑顔"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "拍手"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くわしく<ruby><rb>調</rb><rt>しら</rt></ruby>べて、よいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかや、<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>などを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "審査"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>新製品</rb><rt>しんせいひん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>展示会</rb><rt>てんじかい</rt></ruby>。",
+          "hyouki": [
+            "ショー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>で<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>やおどりなどを<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "ショー"
+          ]
+        }
+      ]
+    }
+  }
+}
