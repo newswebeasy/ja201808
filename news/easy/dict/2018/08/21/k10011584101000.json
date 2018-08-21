@@ -1,0 +1,186 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "うしろ。",
+          "hyouki": [
+            "後"
+          ]
+        },
+        {
+          "def": "のち。あと。",
+          "hyouki": [
+            "後"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないこと、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、のがれる。",
+          "hyouki": [
+            "助かる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>費用</rb><rt>ひよう</rt></ruby>や<ruby><rb>苦労</rb><rt>くろう</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくてすむ。",
+          "hyouki": [
+            "助かる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>にある。うかぶ。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>からはなれて、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にある。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>がはずむ。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>余</rb><rt>あま</rt></ruby>りが<ruby><rb>出</rb><rt>で</rt></ruby>る。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "しっかりと、くっついていない。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>にされなくなる。",
+          "hyouki": [
+            "浮く"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "つける。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "むだにする。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "振る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないこと、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、のがれる。",
+          "hyouki": [
+            "助かる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>費用</rb><rt>ひよう</rt></ruby>や<ruby><rb>苦労</rb><rt>くろう</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくてすむ。",
+          "hyouki": [
+            "助かる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ふつうでは、とても<ruby><rb>起</rb><rt>お</rt></ruby>こりそうもない、ふしぎなできごと。",
+          "hyouki": [
+            "奇跡"
+          ]
+        }
+      ]
+    }
+  }
+}

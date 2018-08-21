@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手助</rb><rt>てだす</rt></ruby>けや、<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "看護師"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。",
+          "hyouki": [
+            "妊娠"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。",
+          "hyouki": [
+            "治療"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ウランやラジウムなどの<ruby><rb>放射性</rb><rt>ほうしゃせい</rt></ruby><ruby><rb>元素</rb><rt>げんそ</rt></ruby>がこわれて、ほかの<ruby><rb>元素</rb><rt>げんそ</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>わるときに<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>大量</rb><rt>たいりょう</rt></ruby>に<ruby><rb>浴</rb><rt>あ</rt></ruby>びると<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>である。",
+          "hyouki": [
+            "放射線"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ]
+    }
+  }
+}

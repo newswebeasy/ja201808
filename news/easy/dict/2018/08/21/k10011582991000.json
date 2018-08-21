@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ヒツジに<ruby><rb>似</rb><rt>に</rt></ruby>た、ウシのなかまの<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>があり、<ruby><rb>雄</rb><rt>おす</rt></ruby>にはあごひげがある。<ruby><rb>乳</rb><rt>ちち</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>・<ruby><rb>毛</rb><rt>け</rt></ruby>などを<ruby><rb>利用</rb><rt>りよう</rt></ruby>する。",
+          "hyouki": [
+            "山羊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。",
+          "hyouki": [
+            "ミルク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>をにつめたり、<ruby><rb>粉</rb><rt>こな</rt></ruby>にしたりしたもの。",
+          "hyouki": [
+            "ミルク"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。",
+          "hyouki": [
+            "施設"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "おけの<ruby><rb>形</rb><rt>かたち</rt></ruby>をした、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。つるが<ruby><rb>付</rb><rt>つ</rt></ruby>いて、<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>運</rb><rt>はこ</rt></ruby>びに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "バケツ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        }
+      ]
+    }
+  }
+}

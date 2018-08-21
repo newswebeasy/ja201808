@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われているけもの。ずんぐり<ruby><rb>太</rb><rt>ふと</rt></ruby>っている。<ruby><rb>肉</rb><rt>にく</rt></ruby>は<ruby><rb>食</rb><rt>た</rt></ruby>べられ、<ruby><rb>皮</rb><rt>かわ</rt></ruby>も<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "豚"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>農作物</rb><rt>のうさくぶつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったり、<ruby><rb>家畜</rb><rt>かちく</rt></ruby>を<ruby><rb>飼</rb><rt>か</rt></ruby>ったりするために<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>土地</rb><rt>とち</rt></ruby>や、<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>農機具</rb><rt>のうきぐ</rt></ruby>などが<ruby><rb>備</rb><rt>そな</rt></ruby>わっている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "農場"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>・<ruby><rb>林業</rb><rt>りんぎょう</rt></ruby>・<ruby><rb>水産業</rb><rt>すいさんぎょう</rt></ruby>・<ruby><rb>畜産業</rb><rt>ちくさんぎょう</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>農水省</rb><rt>のうすいしょう</rt></ruby>。",
+          "hyouki": [
+            "農林水産省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。",
+          "hyouki": [
+            "許可"
+          ]
+        }
+      ]
+    }
+  }
+}
