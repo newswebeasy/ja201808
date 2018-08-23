@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011584581000",
+  "news_prearranged_time": "2018-08-23 11:30:00",
+  "title": "暑さや雨などで７月のデパートの売り上げが減る",
+  "title_with_ruby": "<ruby>暑<rt>あつ</rt></ruby>さや<ruby>雨<rt>あめ</rt></ruby>などで７<ruby>月<rt>がつ</rt></ruby>のデパートの<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げが<ruby>減<rt>へ</rt></ruby>る",
+  "outline_with_ruby": "<p>デパートの<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>団体<rt>だんたい</rt></ruby></a>によると、７<ruby>月<rt>がつ</rt></ruby>のデパートの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ</a>は２１９の<ruby>店<rt>みせ</rt></ruby>で５１３２<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180821/../20180821/K10011584581_1808211629_1808211634_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011584581000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011584581000/k10011584581000.html"
+}
