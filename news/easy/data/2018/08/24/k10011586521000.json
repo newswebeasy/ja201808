@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011586521000",
+  "news_prearranged_time": "2018-08-24 11:30:00",
+  "title": "日本と中国　電気自動車を充電する機械を同じタイプにする",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>充電<rt>じゅうでん</rt></ruby>する<ruby>機械<rt>きかい</rt></ruby>を<ruby>同<rt>おな</rt></ruby>じタイプにする",
+  "outline_with_ruby": "<p><ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>充電<rt>じゅうでん</rt></ruby></a>する<ruby>機械<rt>きかい</rt></ruby>には５つの<a href='javascript:void(0)' class='dicWin' id='id-0001'>タイプ</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180822/../20180822/K10011586521_1808222220_1808222221_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011586521000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011586521000/k10011586521000.html"
+}

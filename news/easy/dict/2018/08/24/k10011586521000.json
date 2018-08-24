@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>型</rb><rt>かた</rt></ruby>。<ruby><rb>類型</rb><rt>るいけい</rt></ruby>。",
+          "hyouki": [
+            "タイプ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>電力</rb><rt>でんりょく</rt></ruby>のはたらきを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１キロワットは、１０００ワット。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「kW」。",
+          "hyouki": [
+            "キロワット"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ]
+    }
+  }
+}

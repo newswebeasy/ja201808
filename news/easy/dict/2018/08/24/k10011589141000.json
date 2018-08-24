@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>値段</rb><rt>ねだん</rt></ruby>よりいくらか<ruby><rb>安</rb><rt>やす</rt></ruby>くすること。",
+          "hyouki": [
+            "割引"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。",
+          "hyouki": [
+            "チケット"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>を、<ruby><rb>水</rb><rt>みず</rt></ruby>でこねてうすくのばし、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>切</rb><rt>き</rt></ruby>ってゆでた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "うどん"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>やエビ、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などに、<ruby><rb>水</rb><rt>みず</rt></ruby>でといた<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>をつけて、<ruby><rb>油</rb><rt>あぶら</rt></ruby>であげたもの。",
+          "hyouki": [
+            "天ぷら"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "得"
+          ]
+        },
+        {
+          "def": "わかる。",
+          "hyouki": [
+            "得"
+          ]
+        },
+        {
+          "def": "<ruby><rb>利益</rb><rt>りえき</rt></ruby>になること。もうけ。",
+          "hyouki": [
+            "得"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>主食</rb><rt>しゅしょく</rt></ruby>にそえる<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>副食</rb><rt>ふくしょく</rt></ruby>。",
+          "hyouki": [
+            "おかず"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ]
+    }
+  }
+}

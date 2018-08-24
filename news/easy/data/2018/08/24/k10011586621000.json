@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011586621000",
+  "news_prearranged_time": "2018-08-24 11:30:00",
+  "title": "先生が働きすぎないように部活動を指導する人を多くする",
+  "title_with_ruby": "<ruby>先生<rt>せんせい</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>きすぎないように<ruby>部活動<rt>ぶかつどう</rt></ruby>を<ruby>指導<rt>しどう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>を<ruby>多<rt>おお</rt></ruby>くする",
+  "outline_with_ruby": "<p><ruby>学校<rt>がっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>すぎることが<ruby>問題<rt>もんだい</rt></ruby>になっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180823/../20180823/K10011586621_1808230030_1808230410_01_02.jpg",
+  "news_web_movie_uri": "k10011586621_201808230515_201808230521.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011586621000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011586621000/k10011586621000.html"
+}

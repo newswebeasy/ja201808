@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>うクラブ<ruby><rb>活動</rb><rt>かつどう</rt></ruby>。",
+          "hyouki": [
+            "部活"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>くこと。",
+          "hyouki": [
+            "指導"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時間</rb><rt>じかん</rt></ruby>のあと、<ruby><rb>残</rb><rt>のこ</rt></ruby>って<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。",
+          "hyouki": [
+            "残業"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。",
+          "hyouki": [
+            "文部科学省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>１年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "年度"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>や<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>などが<ruby><rb>運営</rb><rt>うんえい</rt></ruby>すること。",
+          "hyouki": [
+            "公立"
+          ]
+        }
+      ]
+    }
+  }
+}
