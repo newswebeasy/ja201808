@@ -1,0 +1,164 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>時代区分</rb><rt>じだいくぶん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>平安時代</rb><rt>へいあんじだい</rt></ruby>にあたる。",
+          "hyouki": [
+            "中古"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>古</rb><rt>ふる</rt></ruby>くなっているもの。ちゅうぶる。",
+          "hyouki": [
+            "中古"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "いらなくなった<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>使</rb><rt>つか</rt></ruby>えなくなった<ruby><rb>物</rb><rt>もの</rt></ruby>を、もう<ruby><rb>一度利用</rb><rt>いちどりよう</rt></ruby>できるようにすること。",
+          "hyouki": [
+            "リサイクル"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ガス<ruby><rb>管</rb><rt>かん</rt></ruby>をしいて、<ruby><rb>供給</rb><rt>きょうきゅう</rt></ruby>する、<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby><ruby><rb>用</rb><rt>よう</rt></ruby>のガス。",
+          "hyouki": [
+            "都市ガス"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>煮</rb><rt>に</rt></ruby>たり<ruby><rb>焼</rb><rt>や</rt></ruby>いたりするための、<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>運</rb><rt>はこ</rt></ruby>びができる<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "こんろ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>からとれるガス。<ruby><rb>家庭用</rb><rt>かていよう</rt></ruby>の<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。プロパン。",
+          "hyouki": [
+            "プロパンガス"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>折</rb><rt>お</rt></ruby>り<ruby><rb>曲</rb><rt>ま</rt></ruby>げて<ruby><rb>小</rb><rt>ちい</rt></ruby>さくする。",
+          "hyouki": [
+            "折り畳む"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "たおれる。ひっくり<ruby><rb>返</rb><rt>かえ</rt></ruby>る。",
+          "hyouki": [
+            "転ぶ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をくっつけたり、しめつけたりする<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>のくぎ。らせんのようなみぞがあり、<ruby><rb>回</rb><rt>まわ</rt></ruby>しながら<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れていく。",
+          "hyouki": [
+            "ねじ"
+          ]
+        },
+        {
+          "def": "ぜんまいを<ruby><rb>巻</rb><rt>ま</rt></ruby>くもの。",
+          "hyouki": [
+            "ねじ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "きつくない。ゆったりしている。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>でない。ゆるやかだ。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>厳</rb><rt>きび</rt></ruby>しくない。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しくない。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "かたさが<ruby><rb>足</rb><rt>た</rt></ruby>りない。",
+          "hyouki": [
+            "緩い"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ]
+    }
+  }
+}

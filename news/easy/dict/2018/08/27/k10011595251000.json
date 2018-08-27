@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>からはなれた<ruby><rb>上</rb><rt>うえ</rt></ruby>のほう。そら。",
+          "hyouki": [
+            "空中"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>板</rb><rt>いた</rt></ruby>。<ruby><rb>板</rb><rt>いた</rt></ruby>のように<ruby><rb>平</rb><rt>ひら</rt></ruby>たいもの。",
+          "hyouki": [
+            "ボード"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ゴムやビニルなどで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ガスや<ruby><rb>水</rb><rt>みず</rt></ruby>などを<ruby><rb>送</rb><rt>おく</rt></ruby>るための<ruby><rb>管</rb><rt>くだ</rt></ruby>。",
+          "hyouki": [
+            "ホース"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。",
+          "hyouki": [
+            "岩"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>にかかって<ruby><rb>止</rb><rt>と</rt></ruby>まる。",
+          "hyouki": [
+            "引っ掛かる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>になる。",
+          "hyouki": [
+            "引っ掛かる"
+          ]
+        },
+        {
+          "def": "だまされる。",
+          "hyouki": [
+            "引っ掛かる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>港</rb><rt>みなと</rt></ruby>で、<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ったり、<ruby><rb>法</rb><rt>ほう</rt></ruby>に<ruby><rb>違反</rb><rt>いはん</rt></ruby>することを<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "海上保安庁"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>をくりぬいて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>丸木舟</rb><rt>まるきぶね</rt></ruby>。",
+          "hyouki": [
+            "カヌー"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>った、カヌー<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>うボート。また、その<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "カヌー"
+          ]
+        }
+      ]
+    }
+  }
+}
