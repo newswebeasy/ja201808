@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ものごとを<ruby><rb>認知</rb><rt>にんち</rt></ruby>できなくなる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。",
+          "hyouki": [
+            "認知症"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>がうまくいくように、<ruby><rb>調整</rb><rt>ちょうせい</rt></ruby>したりまとめたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "コーディネーター"
+          ]
+        },
+        {
+          "def": "<ruby><rb>衣服</rb><rt>いふく</rt></ruby>やアクセサリーの<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>材質</rb><rt>ざいしつ</rt></ruby>の<ruby><rb>調和</rb><rt>ちょうわ</rt></ruby>を<ruby><rb>考</rb><rt>かんが</rt></ruby>えて、<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "コーディネーター"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ある<ruby><rb>期間</rb><rt>きかん</rt></ruby>、<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、<ruby><rb>知識</rb><rt>ちしき</rt></ruby>や<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>などを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、それを<ruby><rb>受</rb><rt>う</rt></ruby>けて<ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>すること。",
+          "hyouki": [
+            "講習"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。",
+          "hyouki": [
+            "都道府県"
+          ]
+        }
+      ]
+    }
+  }
+}

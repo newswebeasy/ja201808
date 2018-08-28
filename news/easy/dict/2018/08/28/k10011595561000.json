@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>ったり<ruby><rb>来</rb><rt>き</rt></ruby>たりすること。<ruby><rb>行</rb><rt>い</rt></ruby>きと<ruby><rb>帰</rb><rt>かえ</rt></ruby>り。",
+          "hyouki": [
+            "往復"
+          ]
+        },
+        {
+          "def": "やり<ruby><rb>取</rb><rt>と</rt></ruby>り。",
+          "hyouki": [
+            "往復"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。",
+          "hyouki": [
+            "登録"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011594211000",
+  "news_prearranged_time": "2018-08-28 11:30:00",
+  "title": "ブラジルに日本の会社が小さい発電所をつくっている",
+  "title_with_ruby": "ブラジルに<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さい<ruby>発電所<rt>はつでんしょ</rt></ruby>をつくっている",
+  "outline_with_ruby": "<p>ブラジルでは、アマゾン<ruby>川<rt>がわ</rt></ruby>などを<ruby>利用<rt>りよう</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>水力発電<rt>すいりょくはつでん</rt></ruby></a>で、６５％<ruby>以上<rt>いじょう</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby>をつくっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180826/../20180826/K10011594211_1808261305_1808261306_01_03.jpg",
+  "news_web_movie_uri": "k10011594211_201808261305_201808261306.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011594211000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011594211000/k10011594211000.html"
+}
