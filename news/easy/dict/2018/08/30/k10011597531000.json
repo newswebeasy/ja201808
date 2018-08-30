@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。",
+          "hyouki": [
+            "車椅子"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ななめになる。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>などが）ある<ruby><rb>方</rb><rt>ほう</rt></ruby>へ<ruby><rb>寄</rb><rt>よ</rt></ruby>る。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日</rb><rt>ひ</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が、<ruby><rb>西</rb><rt>にし</rt></ruby>にしずもうとする。",
+          "hyouki": [
+            "傾く"
+          ]
+        },
+        {
+          "def": "おとろえる。",
+          "hyouki": [
+            "傾く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>が<ruby><rb>安</rb><rt>やす</rt></ruby>らかで、ゆったりしていること。",
+          "hyouki": [
+            "楽"
+          ]
+        },
+        {
+          "def": "たやすいこと。",
+          "hyouki": [
+            "楽"
+          ]
+        }
+      ]
+    }
+  }
+}

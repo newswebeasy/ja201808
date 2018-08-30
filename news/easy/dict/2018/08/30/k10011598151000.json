@@ -1,0 +1,48 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>生</rb><rt>い</rt></ruby>きること。<ruby><rb>長命</rb><rt>ちょうめい</rt></ruby>。",
+          "hyouki": [
+            "長生き"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>を<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>するために<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>・<ruby><rb>管楽器</rb><rt>かんがっき</rt></ruby>・<ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>など。",
+          "hyouki": [
+            "楽器"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>月日</rb><rt>つきひ</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る。<ruby><rb>暮</rb><rt>く</rt></ruby>らす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>をこす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "そのままにしておく。",
+          "hyouki": [
+            "過ごす"
+          ]
+        }
+      ]
+    }
+  }
+}
