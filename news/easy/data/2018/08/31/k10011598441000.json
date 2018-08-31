@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011598441000",
+  "news_prearranged_time": "2018-08-31 11:30:00",
+  "title": "ＪＲ東日本　東京の山手線に新しい駅をつくっている",
+  "title_with_ruby": "ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>　<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>山手線<rt>やまのてせん</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>駅<rt>えき</rt></ruby>をつくっている",
+  "outline_with_ruby": "<p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>山手線<rt>やまのてせん</rt></ruby>の<ruby>品川駅<rt>しながわえき</rt></ruby>と<ruby>田町駅<rt>たまちえき</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>駅<rt>えき</rt></ruby>をつくっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180829/../20180829/K10011598441_1808291242_1808291243_01_02.jpg",
+  "news_web_movie_uri": "k10011598441_201808291415_201808291432.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011598441000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011598441000/k10011598441000.html"
+}
